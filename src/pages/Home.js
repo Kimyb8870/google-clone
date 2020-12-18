@@ -11,7 +11,7 @@ const Home = () => {
       <div className="home__header">
         <div className="home__headerLeft">
           <Link to="/about">About</Link>
-          <Link to="/search">Store</Link>
+          <Link to="/store">Store</Link>
         </div>
         <div className="home__headerRight">
           <Link to="/gmail">Gmail</Link>
